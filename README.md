@@ -7,6 +7,16 @@ woolf.txt contains raw text of two of her books, Jacob's Room and The Voyage Out
 
 dickinson.txt contains raw text of Poems by Emily Dickinson, Three Series, Complete.
 
+doolittle.txt contains the poetry work "Sea Garden" by H.D. (Hilda Doolittle)
+
+harper.txt contains poems by Francis Watkins Harper
+
+jacobs.txt includes the novel "Incidents in the Life of a Slave Girl" by Harriet Ann Jacobs 
+
+ridge.txt contains the work "The Ghetto and other Poems" by Lola Ridge
+
+rossetti.txt contains the collection Poems by Christina Georgina Rossetti.
+
 Text procured from https://www.gutenberg.org/
 
 # contributing

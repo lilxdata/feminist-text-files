@@ -17,7 +17,9 @@ ridge.txt contains the work "The Ghetto and other Poems" by Lola Ridge
 
 rossetti.txt contains the collection Poems by Christina Georgina Rossetti.
 
-Text procured from https://www.gutenberg.org/
+beyonce.txt is all of beyonce's lyrics from her website, https://www.beyonce.com/
+
+Other texts procured from https://www.gutenberg.org/
 
 # contributing
 

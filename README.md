@@ -23,7 +23,4 @@ Other texts procured from https://www.gutenberg.org/
 
 # contributing
 
-please contribute any feminist texts you would like + that you have permission to use. Create a pull request containing the following information: 
-Your name / github username
-Text name & author
-Poetry / prose? 
+please contribute any feminist texts you would like + that you have permission to use. Create a pull request containing the following information: your name / github username, text name & author, and category (poetry / prose). 
